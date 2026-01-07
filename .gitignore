@@ -5,4 +5,4 @@ __pycache__/
 *.so
 
 # Environments
-py3.12YoloVenv/
+py310YoloVenv/
